@@ -2,7 +2,7 @@
 puts 'I will now count my chickens:'
 # uses the addition, subtraction, multiplication, and division symbols
 # printing hens, then 25 + 30 / 6 on the next line
-puts 'Hens', 25 + 30 / 6
+puts 'Hens #{25 + 30 / 6}'
 # roosters, then 100 - 25 * 3 % 4 on the next line
 puts 'Rooster', 100 - 25 * 3 % 4
 #printing string

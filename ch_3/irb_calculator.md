@@ -1,3 +1,4 @@
+```
 zach@zach-Blade:~$ irb
 2.1.2 :001 > 2+3
  => 5 
@@ -25,3 +26,4 @@ SyntaxError: (irb):7: no .<digit> floating literal anymore; put 0 before dot
 2.1.2 :008 > 225**(0.5)
  => 15.0 
 2.1.2 :009 > 
+```

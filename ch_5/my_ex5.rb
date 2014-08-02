@@ -12,8 +12,9 @@ eyes = 'Blue'
 teeth = 'White'
 # establishing hair color
 hair = 'Brown'
-# these %d's are known as formatting sequences
+# defining weight in kilos
 weight_in_kilos = weight * .785
+# defining height in cm
 height_in_cm = height * 2.65
 # printing his name
 puts "Let's talk about %s." % name
